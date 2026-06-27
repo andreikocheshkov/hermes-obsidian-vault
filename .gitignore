@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+.obsidian/cache
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
